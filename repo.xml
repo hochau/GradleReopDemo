@@ -2,7 +2,7 @@
 <manifest>
 
 <!--    <default fetch="https://github.com/hochau/" />-->
-    <project >
+    <project origin="https://github.com/hochau/GradleReopDemo.git">
 <!--        <include name="commonlibrary" />-->
 <!--        <include name="library1" />-->
     </project>
