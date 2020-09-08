@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<manifest>
+
+<!--    <default fetch="https://github.com/hochau/" />-->
+    <project >
+<!--        <include name="commonlibrary" />-->
+<!--        <include name="library1" />-->
+    </project>
+
+    <module name="app" >
+        <!-- 
+        <dependencies>
+            <api name="commonlibrary" />
+            <api name="library1" />
+        </dependencies>
+        -->
+    </module>
+<!--    <module name="app" origin="./gradle-repo-app.git">-->
+<!--        <dependencies>-->
+<!--            <api name="commonlibrary"/>-->
+<!--            <api name="library1"/>-->
+<!--        </dependencies>-->
+<!--    </module>-->
+<!--    <module name="app" origin="gradle-repo-app.git">-->
+<!--        <dependencies>-->
+<!--            <api name="mylibrary" />-->
+<!--            <api name="mylibrary3" />-->
+<!--        </dependencies>-->
+<!--    </module>-->
+<!-- 
+    <module name="commonlibrary" origin="https://github.com/hochau/commonlibrary.git" />
+    <module name="library1" origin="https://github.com/hochau/library1.git" />
+-->
+</manifest>
