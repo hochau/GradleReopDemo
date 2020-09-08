@@ -4,7 +4,7 @@
 <!--    <default fetch="https://github.com/hochau/" />-->
     <project origin="https://github.com/hochau/GradleReopDemo.git">
 <!--        <include name="commonlibrary" />-->
-<!--        <include name="library1" />-->
+        <include name="app" />
     </project>
 
     <module name="app" >
